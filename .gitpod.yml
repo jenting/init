@@ -1,2 +1,2 @@
 tasks:
-  - init: "echo \"some output\" > someFile; sleep 20; exit 0;"
+  - init: "echo \"some output\" > someFile; sleep 90;"
